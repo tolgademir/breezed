@@ -12,9 +12,9 @@ MySQL<br>
 
 # Live
 
-Website: tolgademir.dev/breezed/
+Website: https://www.tolgademir.dev/breezed/
 
-Panel: tolgademir.dev/breezed/panel
+Panel: https://www.tolgademir.dev/breezed/panel
 
 Username: tolga@tolgademir.dev
 
