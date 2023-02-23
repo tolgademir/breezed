@@ -1,7 +1,0 @@
-Slider;
-
-Slider verileri slider kısmında foreach döngüsü ile sırasıyla id'e göre gösterilecek.
-
-Slider verileri veritabanındaki slider_id'e göre güncellenecek.
-
-Slider verileri veritabanındaki slider_id'e göre eklenecek.

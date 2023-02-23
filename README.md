@@ -12,10 +12,4 @@ MySQL<br>
 
 # Live
 
-Website: https://www.tolgademir.dev/breezed/
-
-Panel: https://www.tolgademir.dev/breezed/panel
-
-Username: tolga@tolgademir.dev
-
-Password : 123
+Coming soon.
