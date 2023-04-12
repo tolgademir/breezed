@@ -12,8 +12,8 @@ MySQL<br>
 
 # Live
 
-Website: https://tolgademir.dev/breezed/
-Panel: https://tolgademir.dev/breezed/panel
+Website: https://tolgademir.dev/breezed/ <br>
+Panel: https://tolgademir.dev/breezed/panel <br>
 
-Username: tolga@tolgademir.dev
-Passsword: 123
+Username: tolga@tolgademir.dev <br>
+Passsword: 123 <br>
