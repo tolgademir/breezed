@@ -1,4 +1,4 @@
-# Breezed
+# About
 
 Breezed is a one-page website connected to a panel entirely coded in PHP.
 
